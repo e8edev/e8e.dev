@@ -38,44 +38,44 @@ params:
   ShowFeaturedImageInList: true
   ShowFeaturedImageInPost: true
 
-  # images:
-  #  - "/images/og-image.webp"
+  images:
+   - "/images/og-image.webp"
 
   cover:
     responsiveImages: false
 
-  # socialIcons:
-  #  - name: "facebook"
-  #    url: "https://facebook.com/faisaldarbar"
-  #  - name: "youtube"
-  #    url: "https://www.youtube.com/@FaisalDarbar"
-  #  - name: "instagram"
-  #    url: "https://www.instagram.com/faisaldarbar_"
-  #  - name: "x-twitter"
-  #    url: "https://x.com/faisaldarbar"
-  #  - name: "at"
-  #    url: "mailto:faisal@faisaldarbar.com"
+  socialIcons:
+   - name: "facebook"
+     url: "https://facebook.com/e8edev"
+   - name: "youtube"
+     url: "https://www.youtube.com/@e8edev"
+   - name: "instagram"
+     url: "https://www.instagram.com/e8edev"
+   - name: "x-twitter"
+     url: "https://x.com/e8edev"
+   - name: "at"
+     url: "mailto:fd@e8e.dev"
 
-  # footer:
-  #  links:
-  #    - name: Privacy Policy
-  #      url: /legal/privacy-policy/
-  #    - name: Terms of Use
-  #      url: /legal/terms-of-use/
-  #    - name: Refund Policy
-  #      url: /legal/refund-and-cancellation-policy/
+  footer:
+    links:
+     - name: Privacy Policy
+       url: /legal/privacy-policy/
+     - name: Terms of Use
+       url: /legal/terms-of-use/
+     - name: Refund Policy
+       url: /legal/refund-and-cancellation-policy/
 
-# menu:
-  # main:
-    # - name: "Home"
-    #  url: "/"
-    #  weight: 1
-    #- name: "About"
-    #  url: "/about/"
-    #  weight: 2
-    #- name: "Blog"
-    #  url: "/posts/"
-    #  weight: 3
-    #- name: "Search"
-    #  url: "/search/"
-    #  weight: 4
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "About"
+      url: "/about/"
+      weight: 2
+    - name: "Blog"
+      url: "/posts/"
+      weight: 3
+    - name: "Search"
+      url: "/search/"
+      weight: 4
