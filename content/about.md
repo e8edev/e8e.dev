@@ -22,7 +22,7 @@ The name *e8e* is short for “executable.” Because what we deliver runs right
 We’re building a future where digital systems don’t need constant fixing—where businesses can rely on technology as they do on power or water: quiet, invisible, always on. That’s the world we’re coding toward.
 
 ### Contact Us  
-**Let’s turn your ideas into something executable.**  
+**Let’s turn your idea into an executable.**  
 Reach out today to build something reliable, elegant, and engineered to run.  
 
 {{< emailbutton >}}
