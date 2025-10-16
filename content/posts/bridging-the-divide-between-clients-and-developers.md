@@ -9,7 +9,7 @@ showBreadCrumbs: true
 showReadingTime: true
 author: "e8e"
 showToc: true
-tocopen: false
+tocopen: true
 
 cover:
   image: "/images/bridging-the-divide.webp"
