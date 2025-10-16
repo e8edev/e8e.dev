@@ -48,6 +48,8 @@ params:
      url: "https://www.instagram.com/e8edev"
    - name: "x-twitter"
      url: "https://x.com/e8edev"
+   - name: "linkedin"
+     url: "https://www.linkedin.com/company/e8edev/"
    - name: "at"
      url: "mailto:fd@e8e.dev"
 

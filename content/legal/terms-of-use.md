@@ -14,7 +14,7 @@ tocopen: true
 
 **Effective Date: October 15, 2025**
 
-Welcome to <a href="https://e8e.dev" target="_blank" rel="noopener">e8e.dev</a>, a personal blog owned and operated by **e8e**. By accessing this site, you agree to the following terms:
+Welcome to <a href="https://e8e.dev" target="_blank" rel="noopener">e8e.dev</a>, a website owned and operated by **e8e**. By accessing this site, you agree to the following terms:
 
 ## 1. Content
 

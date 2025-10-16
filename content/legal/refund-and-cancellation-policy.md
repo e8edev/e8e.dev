@@ -18,7 +18,7 @@ This Refund and Cancellation Policy outlines our practices regarding paid servic
 
 ## 1. Development Services
 
-All development services provided by e8e.dev are delivered with professionalism and care.
+All development services provided by **e8e** are delivered with professionalism and care.
 
 - Once a service has been initiated or delivered, it is considered final.
 - We **do not offer refunds or cancellations** for any development services.
