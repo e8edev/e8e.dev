@@ -9,7 +9,7 @@ showBreadCrumbs: true
 showReadingTime: true
 author: "e8e"
 showToc: true
-tocopen: true
+tocopen: false
 ---
 
 **Effective Date: October 15, 2025**
@@ -38,6 +38,6 @@ This site may contain links to other websites or services, including including t
 
 These Terms may change over time. Updates will appear here with the new effective date.
 
-## Contact
+## 6. Contact
 
 If you have any questions about these terms, email us at: [fd@e8e.dev](mailto:fd@e8e.dev)

@@ -9,7 +9,7 @@ showBreadCrumbs: true
 showReadingTime: true
 author: "e8e"
 showToc: true
-tocopen: true
+tocopen: false
 ---
 
 **Effective Date: October 15, 2025**
