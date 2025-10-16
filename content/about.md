@@ -1,37 +1,29 @@
 ---
 title: "About"
 
+cover:
+  image: "/images/og-image.webp"
+  alt: "e8e.dev"
 ---
 
-{{< homeimage >}}
 
-## 👋 Welcome
+At e8e.dev, development isn’t about writing code—it’s about making things *runnable.* We build digital experiences, websites, and automation that don’t just look good but work flawlessly. *Executable Development* captures our philosophy: every idea should be built with precision, tested for reliability, and ready to run from day one.
 
-We specialize in IT solutions, software development, cloud automation, business consulting, and creative media services.
+### What We Believe  
+Technology should never get in your way—it should simply work. Too many businesses struggle with slow systems, half‑working tools, or overpriced complexity. e8e.dev exists to change that. We believe in digital craftsmanship defined by clarity, performance, and trust. When your systems just run, you can focus on what truly matters—your business.
 
-Here, you’ll find our thoughts, experiments, and experiences across:-
+### How We Work  
+Every project begins with understanding *your* goals, not just your tech stack. We plan precisely, build efficiently, and test exhaustively. Our process blends engineering discipline with creative development—ensuring everything we ship is reliable, fast, secure, and maintainable.
 
-- 🖥 **IT Infrastructure and Cybersecurity**
-- 💻 **Software and Web Development**
-- ☁️ **Cloud Computing and Automation**
-- 📊 **Business Accounting and Taxation**
-- 📚 **Writing and the Author Journey**
-- 🎥 **Content Creation and Videography**
+### Why e8e  
+The name *e8e* is short for “executable.” Because what we deliver runs right out of the box. No fluff, no jargon—just functional, high‑performance code built to last. We call it *Executable Development.*
 
-## 🧩 Our Founder
+### Vision  
+We’re building a future where digital systems don’t need constant fixing—where businesses can rely on technology as they do on power or water: quiet, invisible, always on. That’s the world we’re coding toward.
 
-### 👤 {{< faisaldarbarlink >}}
+### Contact Us  
+**Let’s turn your ideas into something executable.**  
+Reach out today to build something reliable, elegant, and engineered to run.  
 
-e8e was founded by **Faisal Darbar** — a Full-Stack JavaScript Developer, Author-in-Progress, Aspiring YouTuber, and Expat Turned Entrepreneur.
+{{< emailbutton >}}
 
-## 🧩 Our Ventures
-
-In addition to consulting and content creation, our founder **Faisal Darbar** currently manages the following businesses:
-
-### 👜 {{< ahlanbagslink >}}
-
-Ahlan Bags is a retail brand offering high-quality handbags, backpacks, laptop bags, wallets, and accessories in Aurangabad.
-
-Want more insights, stories, and updates?
-
-{{< blogbutton >}}

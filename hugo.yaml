@@ -23,14 +23,9 @@ outputs:
 
 params:
   env: "production"
-  author: "e8e"
   defaultTheme: "auto"
-  showReadingTime: true
   showCodeCopyButtons: true
   ShowPostNavLinks: true
-  showBreadCrumbs: true
-  showToc: true
-  tocopen: true
   mainSections: ["posts"]
   ShowSearch: true
   ShowSocialIcons: true

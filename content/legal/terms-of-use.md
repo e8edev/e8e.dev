@@ -5,6 +5,11 @@ draft: false
 layout: page
 type: page
 permalink: /legal/terms-of-use/
+showBreadCrumbs: true
+showReadingTime: true
+author: "e8e"
+showToc: true
+tocopen: true
 ---
 
 **Effective Date: October 15, 2025**
