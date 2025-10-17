@@ -44,8 +44,6 @@ params:
      url: "https://facebook.com/e8edev"
    - name: "youtube"
      url: "https://www.youtube.com/@e8edev"
-   - name: "instagram"
-     url: "https://www.instagram.com/e8edev"
    - name: "x-twitter"
      url: "https://x.com/e8edev"
    - name: "linkedin"
