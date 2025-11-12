@@ -39,7 +39,7 @@ This need for usability means many still rely on WordPress or visual site builde
 ***
 
 🎥 Watch the video exploring this real-world tension:  
-{{< youtube NJwWlLss52o >}}
+{{< youtube 8-tdLicvsfQ >}}
 
 ***
 
