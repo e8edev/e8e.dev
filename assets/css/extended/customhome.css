@@ -1,0 +1,211 @@
+:root{
+/* CTA row */
+.ch-cta-row{ display:flex; gap:1rem; align-items:center; margin-bottom:1.2rem;}
+
+
+/* Buttons */
+.btn{
+  display:inline-flex;
+  align-items:center;
+  justify-content: center;
+  gap:.6rem;
+  padding:.75rem 1.2rem;
+  border-radius:10px;
+  font-weight:600;
+  text-decoration:none;
+  transition:all .22s ease;
+}
+.btn-primary{
+  background: linear-gradient(90deg, rgba(0,229,195,0.12), rgba(20,255,217,0.06));
+  border:1px solid rgba(0,229,195,0.12);
+  color:var(--accent);
+}
+.btn-ghost{
+  background:transparent;
+  border:1px solid rgba(255,255,255,0.06);
+  color:var(--muted);
+}
+.btn-primary:hover{
+  transform:translateY(-3px);
+  box-shadow:0 8px 40px rgba(0,229,195,0.06);
+}
+
+
+/* Quicklist */
+.ch-quicklist{
+  display:flex;
+  gap:1rem;
+  margin-top:1.4rem;
+  color:var(--muted);
+  font-weight:600;
+}
+
+
+/* ---------------------------------------------
+   HERO
+--------------------------------------------- */
+.ch-hero{
+  padding-top: 12rem;
+  padding-bottom: 6rem;
+  position: relative;     /* required for bg image */
+  overflow: hidden;       /* keeps bg contained */
+}
+
+.ch-title{ line-height:1.15; margin-bottom:1.2rem; }
+.ch-sub{ margin-bottom:2rem; }
+.ch-lead{ margin-bottom:2.2rem; }
+.ch-subheadline{ margin-bottom:2.4rem; color:var(--muted); font-size:1.05rem; }
+
+/* ---------------------------------------------
+   HERO BACKGROUND BRAND IMAGE (COG WHEEL)
+--------------------------------------------- */
+.ch-hero::before {
+  content: "";
+  position: absolute;
+  top: 1.5rem;                /* stays above the hero title */
+  left: 50%;                 
+  transform: translateX(-50%); /* center horizontally */
+  width: 120px;               /* smaller desktop size */
+  height: 120px;
+  border-radius:50%;
+  background-image: url('/images/howdy.webp');
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 1;                 /* fully visible */
+  filter: none;               /* no blur */
+  pointer-events: none;
+  z-index: 0;                 /* behind all hero content */
+}
+
+/* Keep hero content above logo */
+.ch-hero-inner,
+.ch-hero-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+/* Mobile version — smaller but still centered */
+@media (max-width: 600px) {
+  .ch-hero::before {
+    top: 1rem;
+    width: 80px;
+    height: 80px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+
+/* Full-width wrapper */
+.ch-wrapper{
+  width:100%;
+  max-width:none;
+  padding:0;
+  margin:0;
+}
+
+.ch-hero-inner{
+  max-width:1100px;
+  margin:0 auto;
+  padding-left:2rem;
+  padding-right:2rem;
+}
+
+
+/* Grid background */
+.ch-grid-bg{
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  opacity:.12;
+  background-image:
+    linear-gradient(rgba(0,229,195,0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,229,195,0.04) 1px, transparent 1px);
+  background-size:28px 28px;
+  transform:translateZ(0) scale(1.05) translateY(-6%);
+  mix-blend-mode:overlay;
+}
+
+
+/* ---------------------------------------------
+   FEATURES
+--------------------------------------------- */
+
+.ch-features{
+  padding-top:5rem;
+  padding-bottom:5rem;
+  text-align: center;
+}
+
+.ch-system{
+    text-align: center;
+}
+
+.ch-container{
+  max-width:1100px;
+  margin:0 auto;
+  padding-left:1.5rem;
+  padding-right:1.5rem;
+}
+.section-title{
+  font-size:1.4rem;
+  color:var(--accent);
+  margin-bottom:1rem;
+}
+.section-sub{
+  color:var(--muted);
+  margin-bottom:2rem;
+}
+
+.features-grid{
+  display:grid;
+  gap:1.4rem;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+}
+
+.feature-card{
+  background:var(--panel);
+  border-radius:10px;
+  padding:1.2rem;
+  border:1px solid rgba(255,255,255,0.03);
+  box-shadow:0 6px 30px rgba(2,17,21,0.6);
+  min-height:200px;
+}
+.feature-card .icon{ font-size:1.4rem; margin-bottom:.6rem; }
+.feature-card h3{ margin:0 0 .4rem; }
+.feature-card p{ color:var(--muted); margin:0; }
+
+
+/* CTA Section */
+.ch-cta-section{
+  padding-top:6rem;
+  padding-bottom:8rem;
+}
+.center{ text-align:center; }
+
+
+/* ---------------------------------------------
+   Responsive
+--------------------------------------------- */
+@media (max-width:520px){
+  .features-grid{ grid-template-columns:1fr; }
+  .ch-hero{ padding-top:8rem; padding-bottom:4rem; }
+  .ch-title{ font-size:2rem; }
+  .ch-hero-inner{ gap:1.2rem; }
+
+  .ch-cta-row{
+    flex-direction:column;
+    align-items:stretch;
+  }
+  .ch-cta-row .btn{
+    width:100%;
+    text-align:center;
+  }
+
+  .ch-quicklist{
+    flex-direction:column;
+    align-items:flex-start;
+    gap:.5rem;
+  }
+}
