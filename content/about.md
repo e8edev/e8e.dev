@@ -7,81 +7,33 @@ cover:
 ---
 
 
-The web is full of small businesses stuck on slow, expensive, overcomplicated platforms. They pay for features they don’t use, and hosting they don’t need.
+Most small businesses run on platforms that are slow, complex, and expensive. They pay for unused features and spend time maintaining systems instead of serving customers.
 
-We started **e8e.dev** to fix that.
+Technology should move the business, not add operational drag. Websites must be fast, secure, affordable, and simple to manage. That principle guides everything we build at e8e.dev.
 
----
+## The Zero‑Maintenance Web System™
 
-## **Our Belief**
+A static architecture engineered for small businesses.
 
-Technology should be an asset — not a burden.
-Your website should help your business grow, not drain your time, money, or energy.
+Delivering websites that are:
 
-So we built a better way.
+- ⚡ **Blazing-fast** — optimized for Core Web Vitals
+- 🛡️ **Secure by design** — no plugins, no database
+- 💸 **No‑cost to host** — deployable on GitHub or Cloudflare pages
+- 🧘 **Zero maintenance** — nothing to update, consistent uptime
 
----
+Built on modern static site generators and delivered through global CDNs to achieve reliable speed, scale, and cost efficiency.
 
-# **The Zero-Maintenance Web System™**
+## Our Mission
 
-### A modern, static architecture designed for small businesses.
+To free millions of small businesses from slow, overcomplicated web platforms and give them websites that are fast, secure, affordable, and maintenance-free.
 
-Our signature method delivers websites that are:
+## Our Vision
 
-* ⚡ **Blazing-fast** — optimized for Core Web Vitals out of the box
-* 🛡️ **Secure by design** — no plugins, no database, no patches
-* 💸 **Free to host forever** — via GitHub Pages or Cloudflare Pages
-* 🧘 **Effortlessly simple** — no maintenance, ever
+A future where the web is clean, fast, secure, and simple — powered by modern static architecture, not weighed down by outdated systems.
 
-We combine Hugo and other Static Site Generators (SSGs) with global Content Delivery Network (CDN) hosting and a streamlined development workflow to deliver world-class performance at a fraction of the cost.
+## Progress
 
-This isn’t traditional web development.
-It’s **digital liberation**.
+The future of the web is static. See how we implement it in practice — real launches, measurable outcomes, continuously updated.
 
----
-
-## **What Makes Us Different?**
-
-### **1. We build websites that never need updates.**
-
-Zero maintenance means no surprises, no downtime, and no recurring bills.
-
-### **2. We empower you, not trap you.**
-
-Every client gets a personal walkthrough and simple documentation so they can update content on their own.
-
-### **3. We keep costs permanently low.**
-
-No hosting fees.
-No plugin renewals.
-No paid themes.
-No ongoing “maintenance packages.”
-
-### **4. We specialize — and it shows.**
-
-We don’t build everything for everyone.
-We build one thing exceptionally well:
-**high-performance static business websites.**
-
----
-
-## **Who We Serve**
-
-Small businesses, solopreneurs, consultants, exporters, and service providers across the world who want a website that:
-
-* loads instantly
-* ranks better
-* costs less
-* never breaks
-* and is easy to manage
-
-If that sounds like you, you’re in the right place.
-
----
-
-### **The Future of the Web Is Static — and We’re Here to Lead It.**
-
-Want to see how we can simplify and upgrade your online presence?  
-  
-
-{{< blogbutton >}}
+{{< projectsbutton >}}
