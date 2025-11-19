@@ -1,4 +1,4 @@
-:root{
+
 /* CTA row */
 .ch-cta-row{ display:flex; gap:1rem; align-items:center; margin-bottom:1.2rem;}
 
@@ -209,4 +209,202 @@
     gap:.5rem;
   }
 }
+
+/* ---------------------------------------------
+   PRICING PAGE – Enhancements
+--------------------------------------------- */
+
+/* Pricing Section Spacing */
+.ch-pricing-hero {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  text-align: center;
+}
+
+.ch-pricing-section,
+.ch-pricing-addons,
+.ch-pricing-faq {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+/* Make pricing cards stand out slightly more */
+.feature-card.pricing-card {
+  border: 1px solid rgba(0,229,195,0.10);
+  box-shadow: 0 6px 40px rgba(0,0,0,0.5);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.feature-card.pricing-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 60px rgba(0,229,195,0.15);
+}
+
+/* Highlight the "Pro" / Best Value plan */
+.pricing-pro {
+  border-color: rgba(0,229,195,0.25) !important;
+  position: relative;
+  box-shadow:
+    0 6px 25px rgba(0,0,0,0.55),          /* NEW: deep base shadow */
+    0 10px 60px rgba(0,229,195,0.12) !important;  /* existing glow */
+}
+
+
+
+/* Ribbon for BEST VALUE */
+.pricing-pro::before {
+  content: "Most Popular";
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: var(--accent);
+  padding: 0.3rem 0.7rem;
+  font-size: 0.75rem;
+  font-weight: 800;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,229,195,0.55);
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+
+/* Price inside cards – slightly larger */
+.pricing-card h3 {
+  font-size: 1.3rem;
+  color: var(--accent);
+  margin-bottom: 1rem;
+}
+
+/* Better readability for lists */
+.pricing-card p {
+  margin-bottom: 0.4rem;
+}
+
+/* Add-ons Section */
+.ch-pricing-addons .feature-card {
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+.ch-pricing-addons .feature-card:hover {
+  transform: translateY(-4px);
+}
+
+/* FAQ Cards – small glow effect on hover */
+.ch-pricing-faq .feature-card:hover {
+  box-shadow: 0 4px 20px rgba(255,255,255,0.08);
+}
+
+/* CTA Section at bottom - slight increase */
+.ch-cta-section {
+  padding-top: 6rem;
+  padding-bottom: 8rem;
+}
+
+/* Pricing section divider */
+.pricing-divider {
+  grid-column: 1 / -1;
+  margin-top: 3rem;
+  margin-bottom: 1.2rem;
+  text-align: left;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--accent);
+  border-bottom: 1px solid rgba(255,255,255,0.06);
+  padding-bottom: 0.5rem;
+}
+
+/* ---------------------------------------------
+   CONTACT PAGE — ULTRA MINIMAL
+--------------------------------------------- */
+
+.ch-contact-hero {
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  text-align: center;
+}
+
+.contact-btn {
+  margin-top: 1.5rem;
+}
+
+/* Mobile adjustments */
+@media (max-width: 720px) {
+  .ch-contact-hero {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+}
+
+/* ---------------------------------------------
+   ABOUT PAGE — HERO
+--------------------------------------------- */
+.ch-about-hero {
+  padding-top: 10rem;     /* SAME as Contact */
+  padding-bottom: 10rem;
+  text-align: center;
+}
+
+@media (max-width: 720px) {
+  .ch-about-hero {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+}
+
+.ch-about-hero .section-sub {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.1rem;
+  color: var(--muted);
+}
+
+/* ---------------------------------------------
+   ABOUT — FRAMEWORK GRID
+--------------------------------------------- */
+.about-framework-grid {
+  display: grid;
+  gap: 1.4rem;
+  margin-top: 2.4rem;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+
+.about-framework-card {
+  background: var(--panel);
+  padding: 1.4rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.04);
+  box-shadow: 0 6px 30px rgba(2,17,21,0.5);
+  text-align: left;
+}
+
+.about-framework-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.6rem;
+  color: var(--accent);
+  font-size: 1.1rem;
+}
+
+.about-framework-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* Left-aligned narrative sections on About page */
+.ch-about-section.about-left {
+  text-align: left;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.ch-about-section.about-left .section-sub {
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+/* Extra space before Mission section */
+.ch-about-section.mission-block {
+  margin-top: 4rem;
 }

@@ -12,32 +12,51 @@ showToc: true
 tocopen: true
 ---
 
-**Effective Date: October 15, 2025**
 
-Welcome to <a href="https://e8e.dev" target="_blank" rel="noopener">e8e.dev</a>, a website owned and operated by **e8e**. By accessing this site, you agree to the following terms:
+Welcome to **e8e.dev**, owned and operated by e8e.
+By accessing this site, you agree to the following terms.
 
-## 1. Content
+---
 
-All content on this site, including blog posts, images, and code snippets, is for informational and personal use only. Do not reproduce, distribute, or reuse content without permission.
+## **1. Content**
 
-## 2. Email Subscriptions
+All content on this site (posts, images, code snippets, etc.) is for informational and personal use only.
+You may not reproduce or distribute content without our permission.
 
-By subscribing to our email list, you agree to receive periodic emails from us. You can unsubscribe at any time via the link in each email.
+---
 
-We use a third-party service **Kit** to manage and deliver emails. Your information is handled according to their Privacy Policy and Terms of Use.
+## **2. Email Subscriptions**
 
-## 3. No Guarantees
+By subscribing, you agree to receive periodic emails.
+You may unsubscribe at any time.
 
-We make no guarantees about the accuracy, completeness, or usefulness of the content.
+We use **Kit (ConvertKit)** to manage email delivery.
+Your information is processed in accordance with their terms and privacy policy.
 
-## 4. External Links
+---
 
-This site may contain links to other websites or services, including including tools like Google Analytics used to improve site performance and user experience.
+## **3. No Guarantees**
 
-## 5. Changes
+We make no guarantees regarding the accuracy, completeness, or usefulness of the information provided.
 
-These Terms may change over time. Updates will appear here with the new effective date.
+---
 
-## 6. Contact
+## **4. External Links**
 
-If you have any questions about these terms, email us at: [fd@e8e.dev](mailto:fd@e8e.dev)
+Our site may contain links to external websites or tools (e.g., Google Analytics).
+We are not responsible for the content or practices of these third-party services.
+
+---
+
+## **5. Changes to These Terms**
+
+We may update these Terms from time to time.
+Changes will be reflected on this page with a new effective date.
+
+---
+
+## **6. Contact**
+
+For questions regarding these Terms, email us at:
+**[fd@e8e.dev](mailto:fd@e8e.dev)**
+

@@ -12,20 +12,25 @@ showToc: true
 tocopen: true
 ---
 
-**Effective Date: October 15, 2025**
 
-This Refund and Cancellation Policy outlines our practices regarding paid services and digital products, or subscriptions. 
+This policy outlines how refunds and cancellations are handled for our services and digital products.
 
-## 1. Development Services
+---
 
-All development services provided by **e8e** are delivered with professionalism and care.
+## **1. Development Services**
 
-- Once a service has been initiated or delivered, it is considered final.
-- We **do not offer refunds or cancellations** for any development services.
-- By engaging our services, you acknowledge and agree to this no refund and no cancellation policy.
+All development services delivered by **e8e.dev** are provided with professionalism and care.
 
+However:
 
-## 2. Contact
+* Once a service has been initiated or delivered, it is considered final.
+* We do **not** offer refunds or cancellations for any development services.
+* By engaging our services, you acknowledge and agree to this policy.
 
-If you have any questions or concerns regarding this policy, feel free to contact us at:  
-**fd@e8e.dev**
+---
+
+## **2. Contact**
+
+If you have questions about this policy, contact us at:
+**[fd@e8e.dev](mailto:fd@e8e.dev)**
+

@@ -12,44 +12,67 @@ showToc: true
 tocopen: true
 ---
 
-**Effective Date: October 15, 2025**
 
-This Privacy Policy describes how **e8e** ("we", "our", or "us") collects, uses, and protects your personal information when you visit <a href="https://e8e.dev" target="_blank" rel="noopener">e8e.dev</a>.
+This Privacy Policy describes how **e8e.dev (“we”, “our”, “us”)** collects, uses, and protects your personal information when you visit our website.
 
-## 1. What We Collect
+---
 
-We collect your **email address** when you voluntarily subscribe to receive updates through our email newsletter, powered by Kit (ConvertKit).
+## **1. Information We Collect**
 
-We do **not** collect any other personal data, payment information, or sensitive information.
+We collect your email address only when you voluntarily subscribe to receive updates through our email newsletter, which is powered by **Kit (ConvertKit)**.
 
-## 2. How We Use Your Information
+We do **not** collect:
+
+* payment information
+* personal profile information
+* sensitive personal data
+
+---
+
+## **2. How We Use Your Information**
 
 Your email address is used solely to:
-- Send you blog updates or newsletters that you’ve opted into.
-- Contact you occasionally with related updates or announcements.
 
-We do **not** sell, rent, or share your email address with any third parties.
+* send blog updates or newsletters you opted into
+* contact you with occasional announcements or related updates
 
-## 3. Third-Party Services
+We **never sell, rent, or share** your email address with third parties.
 
-We use **Kit** to manage email subscriptions. When you submit your email, you are subject to ConvertKit’s Privacy Policy and Terms of Service.
+---
 
-## 4. Cookies & Analytics
+## **3. Third-Party Services**
 
-We use **Google Analytics** to understand how visitors interact with our site. Google Analytics may set cookies in your browser to collect non-personally identifiable information such as your IP address, device type, and pages visited.
+We use **Kit (ConvertKit)** to manage email subscriptions.
+When you submit your email, their **Privacy Policy** and **Terms of Service** apply.
 
-This data helps us improve the site’s content and user experience. All data is processed in accordance with Google’s Privacy Policy.
+---
 
-You can disable cookies or block Google Analytics by adjusting your browser settings or using a browser extension like Google’s opt-out tool.
+## **4. Cookies & Analytics**
 
+We use **Google Analytics** to understand how visitors use our site.
+Google Analytics may collect non-personally identifiable data such as:
 
-## 5. Your Rights
+* IP address
+* browser type/device
+* pages visited
 
-If you are located in a jurisdiction that grants you rights over your personal data (such as the GDPR in the EU), you may request:
-- Access to the data we hold.
-- Corrections or deletions of your data.
-- To unsubscribe at any time via the link in our emails.
+This data helps us improve user experience.
+You may disable cookies or block Google Analytics using your browser settings or tools like Google’s opt-out extension.
 
-## 6. Contact
+---
 
-If you have any questions about this policy, email us: [fd@e8e.dev](mailto:fd@e8e.dev)
+## **5. Your Rights**
+
+Depending on your jurisdiction (e.g., EU under GDPR), you may request:
+
+* access to your data
+* correction or deletion
+* withdrawal from all emails at any time via the unsubscribe link
+
+---
+
+## **6. Contact**
+
+If you have questions regarding this policy, contact us at:
+**[fd@e8e.dev](mailto:fd@e8e.dev)**
+
