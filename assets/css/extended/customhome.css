@@ -247,6 +247,15 @@
   box-shadow: 0 8px 60px rgba(0,229,195,0.15);
 }
 
+/* Pricing note */
+.pricing-note {
+  font-size: 0.85rem;
+  opacity: 0.75;
+  margin-top: -0.5rem;
+  margin-bottom: 1rem;
+}
+
+
 /* Highlight the "Pro" / Best Value plan */
 .pricing-pro {
   border-color: rgba(0,229,195,0.25) !important;
