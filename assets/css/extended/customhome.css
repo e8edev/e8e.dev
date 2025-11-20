@@ -221,6 +221,13 @@
   text-align: center;
 }
 
+@media (max-width: 720px) {
+  .ch-pricing-hero {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+}
+
 .ch-pricing-section,
 .ch-pricing-addons,
 .ch-pricing-faq {
@@ -345,8 +352,8 @@
 
 @media (max-width: 720px) {
   .ch-about-hero {
-    padding-top: 7rem;
-    padding-bottom: 7rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
   }
 }
 
