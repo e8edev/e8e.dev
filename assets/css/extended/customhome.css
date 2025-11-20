@@ -336,8 +336,8 @@
 /* Mobile adjustments */
 @media (max-width: 720px) {
   .ch-contact-hero {
-    padding-top: 7rem;
-    padding-bottom: 7rem;
+    padding-top: 3rem;
+    padding-bottom: 11rem;
   }
 }
 
