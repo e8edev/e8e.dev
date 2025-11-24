@@ -12,7 +12,6 @@ showToc: false
 cover:
   image: "images/what-is-a-static-website.webp"
   alt: "Simple explanation of static websites"
-  caption: "Explaining static websites in the simplest way possible"
 ---
 
 
