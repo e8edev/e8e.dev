@@ -53,12 +53,16 @@ params:
 
   footer:
     links:
-     - name: Privacy Policy
+     - name: Privacy
        url: /legal/privacy-policy/
-     - name: Terms of Use
+     - name: Terms
        url: /legal/terms-of-use/
-     - name: Refund Policy
+     - name: Refunds
        url: /legal/refund-and-cancellation-policy/
+     - name: Blog
+       url: /posts/ 
+     - name: Search
+       url: /search/
 
 menu:
   main:
@@ -74,9 +78,6 @@ menu:
     - name: "Contact"
       url: "/contact/"
       weight: 4
-    - name: "Blog"
-      url: "/posts/"
+    - name: "Portfolio"
+      url: "/categories/portfolio/"
       weight: 5
-    - name: "Search"
-      url: "/search/"
-      weight: 6
