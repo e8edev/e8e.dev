@@ -68,5 +68,5 @@ The owner's remarks:
 
 ## Website Link
 
-<a href="https://fsahealthcare.com" target="_blank">FSA HealthCare</a>
+<a href="https://fsahealthcare.com" target="_blank" rel="noopener noreferrer">FSA HealthCare</a>
 

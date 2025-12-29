@@ -68,5 +68,5 @@ The owner's remarks:
 
 ## Website Link
 
-<a href="https://smellfeastfood.com" target="_blank">Smell Feast Food</a>
+<a href="https://smellfeastfood.com" target="_blank" rel="noopener noreferrer">Smell Feast Food</a>
 
